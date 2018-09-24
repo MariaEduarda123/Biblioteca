@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Formulário</title>
+<title>Formulário Aluno de Duda</title>
 <link rel="stylesheet" type="text/css" href="css/css.css">
 </head>
 <body>
